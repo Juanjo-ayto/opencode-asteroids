@@ -47,4 +47,5 @@ Luego visita `http://localhost:3000`.
 - Partículas de explosión al destruir asteroides
 - Power-up **Velocidad**: algunos asteroides sueltan un rayo ⚡ que duplica el empuje de la nave durante 5 segundos (se acumula al recoger varios)
 - Power-up **Triple**: algunos asteroides sueltan tres puntos 🔺 que disparan 3 balas en abanico durante 5 segundos (se acumula al recoger varios)
+- Power-up **Escudo**: icono cian que dura 8 segundos; mientras está activo la burbuja alrededor de la nave destruye cualquier asteroide (incluidas las fugaces) que la toque, sumando sus puntos y consumiendo 2 s de escudo por impacto (se acumula al recoger varios)
 - **Estrella fugaz**: aparece cada 8-15 s, mucho más rápida que un asteroide normal y dorada con estela; desaparece sola tras unos segundos (se desvanece y parpadea). Al destruirla da 100 pts y se parte en 2 fugaces pequeñas de 150 pts cada una. Chocar con ella mata a la nave
